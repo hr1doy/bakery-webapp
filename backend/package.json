@@ -1,0 +1,1 @@
+{"name":"bakery-webapp-backend","version":"1.0.0","description":"Backend for the Bakery Web Application","main":"index.js","scripts":{"start":"node index.js"},"author":"hr1doy","license":"ISC"}
